@@ -36,8 +36,9 @@ conda install -y htseq bedtools deeptools salmon
 
 [Filezilla](https://filezilla-project.org/) is a tool to download from FTP site.
 
-[NCBI](ftp://ftp.ncbi.nlm.nih.gov/)
-[EMBI](ftp://ftp.ensembl.org/pub/)
+* [NCBI](ftp://ftp.ncbi.nlm.nih.gov/)
+
+* [EMBI](ftp://ftp.ensembl.org/pub/)
 
 ### method(2)
 [download data by sra-tools][2]
