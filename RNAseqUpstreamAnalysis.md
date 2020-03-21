@@ -32,7 +32,7 @@ conda install -y htseq bedtools deeptools salmon
 ```
 ## download Sequencing Data and Reference Genome
 ### method(1)
-[download data from FTP] [1]
+[download data from FTP][1]
 
 [Filezilla](https://filezilla-project.org/) is a tool to download from FTP site.
 
@@ -40,7 +40,7 @@ conda install -y htseq bedtools deeptools salmon
 [EMBI](ftp://ftp.ensembl.org/pub/)
 
 ### method(2)
-[download data by sra-tools] [2]
+[download data by sra-tools][2]
 
 ```shell
 # query PRJNA257197 infomation
